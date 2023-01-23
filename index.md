@@ -1,103 +1,32 @@
----
-title: Home
----
+About Me 
+=====
+I'm currently a junior undergraduate in [School of Computer Science, Beijing Institute of Technology](https://cs.bit.edu.cn), Beijing, China. I major in Computer Science and Technology, and my research interest lies in Deep Learning, Reinforcement Learning and Robotics.
 
-# Your Lab Slogan
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Education and General Abilities
+======
+1. Oct 2020 - Present: School of Computer Science, Beijing Institute of Technology, Beijing, China.
+2. Ranking: 1 out of 214. 
+3. GPA: 3.9 / 4.0
+4. TOEFL Score: 106 / 120
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
-{:.center}
+Research Experience
+======
+1. (Expected) July 2023 - Oct 2023: Research Internship at University of Alberta. Project name: Development of Crowdsensing Technologies for Smart Cities under supervision of [Mustafa Gül](https://apps.ualberta.ca/directory/person/gul1).
+2. May 2022 - Present: Lab Intern at Big Data System and Software Laboratory of National Engineering, Beijing Institute of Technology.
 
-{% include section.html full=true %}
+Awards
+=====
+1. 2022, China Undergraduate Mathematical Contest in Modeling, Second Prize.
 
-{% include banner.html image="images/banner.jpg" %}
+Honors
+======
+1. 2022, National Scholarship([link](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202212/t20221227_1036671.html)).
+2. 2021, China Century Group Scholarship.
+3. 2020 - 2022, First Prize Scholarship x 4, Beijing Institute of Technology.
+4. 2022, Student Model, Beijing Institute of Technology.
+5. 2021, Student Model, Beijing Institute of Technology.
 
-{% include section.html %}
-
-# Highlights
-
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{%
-  include link.html
-  link="research"
-  text="See what we've published"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-{%
-  include link.html
-  link="tools"
-  text="Browse our tools"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
-  flip=true
-  text=text
-%}
-
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include link.html
-  link="team"
-  text="Meet our team"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+For more info
+------
+Please contact me via email for further information or other additional materials.
